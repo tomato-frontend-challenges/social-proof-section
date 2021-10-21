@@ -5,7 +5,7 @@
 }
 
 .heading__title {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: var(--font-weight-heavy);
 
   color: var(--color-very-dark-magenta);
@@ -105,6 +105,10 @@
 }
 
 @media (min-width: 765px) {
+  .heading__title {
+    font-size: 2.5rem;
+  }
+
   .heading > * {
     text-align: start;
   }
