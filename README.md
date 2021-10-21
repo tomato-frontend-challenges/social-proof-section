@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-TO BE ADDED
+![Group 1](https://user-images.githubusercontent.com/24487667/138207927-8dee0b91-95ae-4b2a-b809-c909f50233bb.png)
 
 ### Links
 
