@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-- The scope of a Grid container is limited to a parent-child relationship [Source](https://stackoverflow.com/questions/45536537/centering-in-css-grid). What this means is that you can't set Grid properties to the children of a Grid item and expect it to work.
+- The scope of a Grid container is limited to a parent-child relationship ([Source](https://stackoverflow.com/questions/45536537/centering-in-css-grid)). What this means is that you can't set Grid properties to the children of a Grid item and expect it to work.
 
 
 ### Continued development
