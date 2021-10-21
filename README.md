@@ -30,8 +30,8 @@ TO BE ADDED
 
 ### Links
 
-- Solution URL: [MISSING]()
-- Live Site URL: [MISSING]()
+- Solution URL: [Link](https://github.com/tomato-frontend-challenges/social-proof-section)
+- Live Site URL: [Link](https://tomato-social-proof-section.netlify.app/)
 
 ## My process
 
