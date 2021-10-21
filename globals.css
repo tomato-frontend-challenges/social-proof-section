@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap');
+
+@import "./styles/variables.css";
+@import "./styles/layout.css";
+@import "./styles/components.css";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  min-height: 100%;
+  width: 100%;
+  font-size: var(--font-size);
+  font-family: var(--font-family-main);
+  display: flex;
+  justify-content: center;
+}
+
+.attribution {
+  margin: 40px;
+}
