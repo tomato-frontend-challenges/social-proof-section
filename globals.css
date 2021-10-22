@@ -3,6 +3,7 @@
 @import "./styles/variables.css";
 @import "./styles/layout.css";
 @import "./styles/components.css";
+@import "./styles/background.css";
 
 * {
   margin: 0;
@@ -14,8 +15,6 @@ html, body {
   width: 100%;
   font-size: var(--font-size);
   font-family: var(--font-family-main);
-  display: flex;
-  justify-content: center;
 }
 
 .attribution {
