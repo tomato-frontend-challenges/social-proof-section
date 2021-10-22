@@ -48,12 +48,12 @@
 }
 
 .rating__stars {
-  transform: translateY(5px);
+  transform: translateY(0.125rem);
 }
 
 @media (min-width: 765px) {
   .rating {
-    height: 2.8125rem;
+    height: 45px;
     width: clamp(15.625rem, 100%, 26.875rem);
     grid-template-columns: 40% 1fr;
     grid-template-rows: 1fr;
@@ -69,6 +69,7 @@
 
   .rating__stars {
     justify-self: center;
+    align-self: center;
   }
 
   .rating__description {
